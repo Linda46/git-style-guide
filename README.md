@@ -14,6 +14,8 @@ Translations of the guide are available in the following languages:
 If you feel like contributing, please do so! Fork the project and open a pull
 request.
 
+hello how are you
+
 # Table of contents
 
 1. [Branches](#branches)
